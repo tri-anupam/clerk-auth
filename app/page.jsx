@@ -1,9 +1,7 @@
-import React from "react";
-
 const Home = () => {
   return (
     <>
-      <h1 className="text-red-500">Home Page</h1>
+      <h1 className="text-red-500 font-bold">Home Page</h1>
     </>
   );
 };
